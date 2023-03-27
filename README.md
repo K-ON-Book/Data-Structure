@@ -1,1 +1,1 @@
-https://k-on-book.github.io/data-structure/封面/index.html
+https://k-on-book.github.io/Data-Structure/封面/index.html
