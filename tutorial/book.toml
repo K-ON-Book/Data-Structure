@@ -8,7 +8,7 @@ title = "Data-Structure"
 [output.html]
 mathjax-support = true
 git-repository-url = "https://github.com/K-ON-Book/data-structure"
-edit-url-template = "https://github.com/K-ON-Book/data-structure/edit/main/tutorial/src/{path}"
+edit-url-template = "https://github.com/K-ON-Book/data-structure/edit/main/tutorial/{path}"
 
 [output.html.playground]
 editable = true
